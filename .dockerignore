@@ -1,0 +1,11 @@
+.venv/
+data/
+data_local/
+mlruns/
+mlflow.db
+.git/
+__pycache__/
+*.pyc
+.dvc/
+.claude/
+*.md
